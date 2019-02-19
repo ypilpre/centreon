@@ -84,7 +84,7 @@ try {
         sh "./centreon-build/jobs/web/${serie}/mon-web-package.sh centos7"
       }
     },
-    'debian10' {
+    'debian10': {
       node {
         sh 'setup_centreon_build.sh'
         sh "./centreon-build/jobs/web/${serie}/mon-web-package.sh debian10"
