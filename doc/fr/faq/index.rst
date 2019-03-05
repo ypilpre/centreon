@@ -9,3 +9,4 @@ Foire Aux Questions
    gdpr_compliance
    administration
    performance
+   known_issues/index
